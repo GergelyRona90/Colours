@@ -1,0 +1,107 @@
+body {
+  background-color: azure
+}
+div {
+  margin:0 auto;
+  display:flex;
+  align-items:center;
+  justify-content: center;
+  border:1px solid
+}
+
+#egy {
+  width: 500px;
+  height: 500px;
+  background-color:hsl(0, 0%, 100%);
+}
+
+#ketto {
+  width:90%;
+  height: 90%;
+  background-color:hsl(0, 0%, 93%);
+}
+
+#harom {
+    width: 90%;
+  height: 90%;
+  background-color:hsl(0, 0%, 86%);
+}
+
+#negy {
+  
+    width: 90%;
+  height: 90%;
+  background-color: hsl(0, 0%, 79%);
+}
+
+#ot {
+  
+    width: 90%;
+  height: 90%;
+  background-color: hsl(0, 0%, 72%);
+}
+
+#hat {
+  
+    width: 90%;
+  height: 90%;
+  background-color: hsl(0, 0%, 65%);
+}
+
+#het {
+  
+    width: 90%;
+  height: 90%;
+  background-color: hsl(0, 0%, 58%);
+}
+
+#nyolc {
+  
+    width: 90%;
+  height: 90%;
+  background-color: hsl(0, 0%, 51%);
+}
+
+#kilenc {
+  
+    width: 90%;
+  height: 90%;
+  background-color: hsl(0, 0%, 44%);
+}
+
+#tiz {
+  
+    width: 90%;
+  height: 90%;
+ background-color: hsl(0, 0%, 37%);
+}
+
+#tizenegy {
+      width: 90%;
+  height: 90%;
+background-color: hsl(0, 0%, 30%);
+}
+
+#tizenketto {
+      width: 90%;
+  height: 90%;
+  background-color: hsl(0, 0%, 23%);
+}
+
+#tizenharom {
+      width: 90%;
+  height: 90%;
+ background-color: hsl(0, 0%, 16%);
+}
+
+#tizennegy {
+      width: 90%;
+  height: 90%;
+  background-color:hsl(0, 0%, 9%)
+}
+
+#tizenot {
+  width:90%;
+  height:90%;
+  background-color: hsl(0, 0%, 2%)
+}
